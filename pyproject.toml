@@ -1,0 +1,12 @@
+[project]
+name = "stickcreator-tg"
+version = "0.1.0"
+description = "Ya hz cho pisat haha"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram",
+    "python-dotenv",
+    "Pillow",
+    "aiosqlite",
+]
